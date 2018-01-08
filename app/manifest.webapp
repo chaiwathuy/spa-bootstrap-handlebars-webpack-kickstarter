@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0",
+	"name": "SPA Website Boilerplate",
+	"launch_path": "/index.html",
+	"description": "SPA website boilerplate using webpack with bootstrap , jquery and handlebars",
+	"icons": {
+		"128": "/img/icon-128x128.png"
+	},
+	"developer": {
+		"name": "Richard Leon Ingaruca",
+		"url": "https://jrichardsz.github.io/"
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+	"default_locale": "en",
+	"permissions": {
+	},
+	"locales": {
+		"en": {
+			"name": "SPA Website Boilerplate",
+			"description": "SPA website boilerplate using webpack with bootstrap , jquery and handlebars"
+		}
+	}
+}
